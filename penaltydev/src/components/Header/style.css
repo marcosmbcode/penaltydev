@@ -1,0 +1,7 @@
+#main-header {
+    display: flex;    
+    height: 150px;
+    width: 100%;
+    color: #fff;
+    background-color: #000;
+}
