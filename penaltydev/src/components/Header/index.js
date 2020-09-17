@@ -10,7 +10,7 @@ const Header = () => (
             <span>Todos os Produtos</span>
             </button>
             <div className="header__logo">
-                <a href="/">Penalty</a>
+                <a href="/"> <img src={'https://lojaflecha.com.br/wp-content/uploads/2020/09/logo-penalty.png'} alt="Produto" /></a>
             </div>
             <div className="search">
                 <form className="search__form" action>

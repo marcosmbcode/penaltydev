@@ -40,22 +40,19 @@ export default class Main extends Component {
               <ul class="box-tecnologia">
                 <li>
                   <span class="icone-tecnologia">NEOTEC</span>
-                  <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha)</strong>
-                  <p>Canaletas posicionadas estratégicamente para auxílio na flexão e movimentação dos pés.</p>
+                  <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha)</strong>                 
                 </li>
               </ul>
               <ul class="box-tecnologia">
                 <li>
                   <span class="icone-tecnologia">NEOTEC</span>
-                  <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha)</strong>
-                  <p>Canaletas posicionadas estratégicamente para auxílio na flexão e movimentação dos pés.</p>
+                  <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha)</strong>                 
                 </li>
               </ul>
               <ul class="box-tecnologia">
                 <li>
                   <span class="icone-tecnologia">NEOTEC</span>
-                  <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha)</strong>
-                  <p>Canaletas posicionadas estratégicamente para auxílio na flexão e movimentação dos pés.</p>
+                  <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha)</strong>               
                 </li>
               </ul>
             </div>
@@ -87,22 +84,20 @@ export default class Main extends Component {
                 <ul class="box-tecnologia"> 
                     <li>
                         <span class="icone-tecnologia">NEOTEC</span>
-                        <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha)</strong>
-                        <p>Canaletas posicionadas estratégicamente para auxílio na flexão e movimentação dos pés.</p>
+                        <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha)</strong>                     
                     </li>
                 </ul>
                 <ul class="box-tecnologia"> 
                     <li>
                         <span class="icone-tecnologia">NEOTEC</span>
                         <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha)</strong>
-                        <p>Canaletas posicionadas estratégicamente para auxílio na flexão e movimentação dos pés.</p>
+                    
                     </li>
                 </ul>
                 <ul class="box-tecnologia"> 
                     <li>
                         <span class="icone-tecnologia">NEOTEC</span>
-                        <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha)</strong>
-                        <p>Canaletas posicionadas estratégicamente para auxílio na flexão e movimentação dos pés.</p>
+                        <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha)</strong>                     
                     </li>
                 </ul>
             </div>
@@ -136,21 +131,18 @@ export default class Main extends Component {
                     <li>
                         <span class="icone-tecnologia">NEOTEC</span>
                         <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha)</strong>
-                        <p>Canaletas posicionadas estratégicamente para auxílio na flexão e movimentação dos pés.</p>
+                    </li>
+              </ul>
+              <ul class="box-tecnologia">
+                    <li>
+                        <span class="icone-tecnologia">NEOTEC</span>
+                        <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha) </strong>
                     </li>
               </ul>
               <ul class="box-tecnologia">
                     <li>
                         <span class="icone-tecnologia">NEOTEC</span>
                         <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha)</strong>
-                        <p>Canaletas posicionadas estratégicamente para auxílio na flexão e movimentação dos pés.</p>
-                    </li>
-              </ul>
-              <ul class="box-tecnologia">
-                    <li>
-                        <span class="icone-tecnologia">NEOTEC</span>
-                        <strong class="titulo-tecnologia">HIPERFLEX (Solado Borracha)</strong>
-                        <p>Canaletas posicionadas estratégicamente para auxílio na flexão e movimentação dos pés.</p>
                     </li>
               </ul>
             </div>
