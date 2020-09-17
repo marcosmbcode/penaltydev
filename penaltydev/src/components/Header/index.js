@@ -132,13 +132,13 @@ const Header = () => (
                         <a className="nav__link nav__item--inf" href="/lojas">Nossas Lojas</a>
                     </li>
                     <li className="nav__item">
-                        <a className="nav__link nav__blog-mobile" href="https://eusoupenalty.com.br" target="_blank" style={{display: 'none'}}>
+                        <a className="nav__link nav__blog-mobile" href="https://eusoupenalty.com.br" style={{display: 'none'}}>
                         <div className="nav__blog-icon" />
                          #EuSouPenalty
                          </a>
                     </li>
                 </ul>
-                <a className="nav__blog" href="https://eusoupenalty.com.br" target="_blank">
+                <a className="nav__blog" href="https://eusoupenalty.com.br">
                 <div className="nav__blog-icon" />
                     #EuSouPenalty
                     </a>
