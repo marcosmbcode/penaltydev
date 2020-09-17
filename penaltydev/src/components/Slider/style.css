@@ -67,3 +67,8 @@
 .slick-track {
     height: 250px;
 }
+
+.slick-prev {
+    left: 45% !important;
+    z-index: 999;
+}

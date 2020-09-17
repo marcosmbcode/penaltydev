@@ -185,6 +185,18 @@ body {
     margin: 5px;
    }
 
+   .icone-tamanhos:hover{
+     cursor: pointer;
+     border: 1px solid #55DB40;
+     color: #55DB40;       
+   }
+
+   .icone-tamanhos:active{
+    cursor: pointer;
+    border: 1px solid #55DB40;
+    color: #55DB40;  
+}
+
    .icone-tamanhos span {
     padding: 12px 15px;
     }
@@ -206,6 +218,20 @@ body {
     border-radius: 6px;
    }
 
+   .adicionar-carrinho:hover{
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 6px;
+    cursor: pointer;
+   }
+
+   .adicionar-carrinho:active{
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 6px;
+    cursor: pointer;
+   }
+
 .box-tecnologia {
     display: flex;
 }
@@ -214,7 +240,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    height: 108px;
+    height: 120px;
     width: 420px;
     background: linear-gradient(180deg, #111111 0%, #1D1D1D 100%);
 }
