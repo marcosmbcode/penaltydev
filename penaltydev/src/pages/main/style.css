@@ -45,11 +45,13 @@ body {
     border: 1px solid #666666;
     margin: 10px;
     color: #666666;
+    border-radius: 6px;
 }
 
 .content-filter ul li:hover {   
     color: #55DB40;
     border: 1px solid #55DB40;
+    border-radius: 6px;
 }
 
 
@@ -162,5 +164,18 @@ body {
     text-transform: uppercase;     
     color: #55DB40;
     border: 1px solid #55DB40;
+    border-radius: 6px;
    }
 
+.box-tecnologia {
+    display: flex;
+}
+
+.box-tecnologia li{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 108px;
+    width: 420px;
+    background: linear-gradient(180deg, #111111 0%, #1D1D1D 100%);
+}
